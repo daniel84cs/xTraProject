@@ -59,4 +59,8 @@
         <item>0</item>
         <item>0</item>
     </integer-array>
+
+    <!-- Whether to show biometric help only when failed -->
+    <bool name="config_biometricHelpShowOnlyWhenFailed">true</bool>
+
 </resources>
